@@ -5,17 +5,17 @@
 Me chamo **Pablo Nobre de Oliveira**, sou natural do Amazonas e atuo criando soluções que transformam **dados abertos** em **insights territoriais de alto impacto**. Trabalho principalmente com **Python**, **FastAPI** e ferramentas de geoprocessamento (GeoPandas, PySAL, OSMnx, KeplerGL) para otimizar recursos de saúde pública, analisar segurança e construir aplicações web de alto desempenho. Compartilho aprendizados sobre back‑end, geodados e visualização interativa sempre que possível.
 
 <p align="left">
-    <a href="https://github.com/pablonobre?tab=repositories&sort=stargazers">
+    <a href="https://github.com/DevPabloOliveira?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/pablonobre?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+            src="https://custom-icon-badges.demolab.com/github/stars/DevPabloOliveira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
     </a>
-    <a href="https://github.com/pablonobre?tab=followers">
+    <a href="https://github.com/DevPabloOliveira?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/pablonobre?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+            src="https://custom-icon-badges.demolab.com/github/followers/DevPabloOliveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
     </a>
 </p>
 
@@ -41,9 +41,9 @@ Me chamo **Pablo Nobre de Oliveira**, sou natural do Amazonas e atuo criando sol
 ### 📊 Estatísticas
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=DevPabloOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=DevPabloOliveira&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
 
-  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPabloOliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPabloOliveira&theme=tokyonight&layout=compact&langs_count=10&hide_title=true" />
 </p>
 
 <br/>
@@ -53,7 +53,7 @@ Me chamo **Pablo Nobre de Oliveira**, sou natural do Amazonas e atuo criando sol
 
 ### 📫 Onde me encontrar
 
-[Email](mailto:seu.email@exemplo.com) • [LinkedIn](https://www.linkedin.com/in/pablonobre) • [Instagram](https://www.instagram.com/seuusuario/)
+[Email](mailto:seu.email@exemplo.com) • [LinkedIn](https://www.linkedin.com/in/DevPabloOliveira) • [Instagram](https://www.instagram.com/seuusuario/)
 
 ---
 
