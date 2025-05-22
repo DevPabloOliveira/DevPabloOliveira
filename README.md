@@ -2,12 +2,22 @@
 
 **`Engenheiro de Software · Analista de Dados Geoespaciais`**
 
-Me chamo **Pablo Oliveira**, sou natural do Amazonas e atuo criando soluções que transformam **dados abertos** em **insights territoriais de alto impacto**. Trabalho principalmente com **Python**, **FastAPI** e ferramentas de geoprocessamento (GeoPandas, PySAL, OSMnx, KeplerGL) para otimizar recursos de saúde pública, analisar segurança e construir aplicações web de alto desempenho. Compartilho aprendizados sobre back‑end, geodados e visualização interativa sempre que possível.
+Sou **engenheiro de software full‑stack** com forte atuação em **aplicações web assíncronas e síncronas** de alta performance. Minha especialidade é combinar **geoprocessamento** com arquiteturas modernas (REST, GraphQL, WebSockets, tarefas em background) para entregar produtos que vão de APIs em tempo real a dashboards interativos.
+
+> **Stack favorita:** Python (FastAPI + asyncio), JavaScript / TypeScript (React, Flutter), PostGIS, Redis, Docker, CI/CD GitHub Actions.
+
+Além do domínio de dados espaciais, já liderei projetos de e‑commerce, automação de ETL e microsserviços. Procuro sempre equilibrar **design limpo**, **testes automatizados** e **observabilidade** para garantir código sustentável em produção.
 
 <p align="left">
-  <a href="https://orcid.org/0009-0009-8292-8091">ORCID</a> •
-  <a href="http://www.linkedin.com/in/pablo-oliveira-273937206">LinkedIn</a> •
-  <a href="https://www.instagram.com/pablo.oliveira.dev?igsh=azJoY29rcG5nY2x4">Instagram</a>
+  <a href="https://orcid.org/0009-0009-8292-8091">
+    <img alt="ORCID" title="Meu ORCID" src="https://img.shields.io/badge/ORCID-0009 0009 8292 8091-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+  <a href="http://www.linkedin.com/in/pablo-oliveira-273937206">
+    <img alt="LinkedIn" title="Conecte‑se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/pablo.oliveira.dev?igsh=azJoY29rcG5nY2x4">
+    <img alt="Instagram" title="Siga‑me no Instagram" src="https://img.shields.io/badge/Instagram-@pablo.oliveira.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -39,7 +49,7 @@ Me chamo **Pablo Oliveira**, sou natural do Amazonas e atuo criando soluções q
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPabloOliveira&theme=tokyonight&layout=compact&langs_count=10&hide_border=true" />
 </div>
 
-
 ---
+
 
 > *“Dados abertos + código limpo + mapas bonitos = 💚”*
