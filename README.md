@@ -22,7 +22,7 @@ Além do domínio de dados espaciais, já liderei projetos de e‑commerce, auto
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧰 Linguagens e Tecnologias
 
 <!-- Primeira linha -->
 
