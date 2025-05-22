@@ -5,18 +5,9 @@
 Me chamo **Pablo Oliveira**, sou natural do Amazonas e atuo criando soluções que transformam **dados abertos** em **insights territoriais de alto impacto**. Trabalho principalmente com **Python**, **FastAPI** e ferramentas de geoprocessamento (GeoPandas, PySAL, OSMnx, KeplerGL) para otimizar recursos de saúde pública, analisar segurança e construir aplicações web de alto desempenho. Compartilho aprendizados sobre back‑end, geodados e visualização interativa sempre que possível.
 
 <p align="left">
-    <a href="https://github.com/DevPabloOliveira?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DevPabloOliveira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
-    </a>
-    <a href="https://github.com/DevPabloOliveira?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DevPabloOliveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-    </a>
+  <a href="https://orcid.org/0009-0009-8292-8091">ORCID</a> •
+  <a href="http://www.linkedin.com/in/pablo-oliveira-273937206">LinkedIn</a> •
+  <a href="https://www.instagram.com/pablo.oliveira.dev?igsh=azJoY29rcG5nY2x4">Instagram</a>
 </p>
 
 ---
@@ -48,11 +39,6 @@ Me chamo **Pablo Oliveira**, sou natural do Amazonas e atuo criando soluções q
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPabloOliveira&theme=tokyonight&layout=compact&langs_count=10&hide_border=true" />
 </div>
 
----
-
-### 📫 Onde me encontrar
-
-[Email](mailto:seu.email@exemplo.com) • [LinkedIn](https://www.linkedin.com/in/DevPabloOliveira) • [Instagram](https://www.instagram.com/seuusuario/)
 
 ---
 
