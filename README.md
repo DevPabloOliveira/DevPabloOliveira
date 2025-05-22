@@ -40,14 +40,11 @@ Me chamo **Pablo Nobre de Oliveira**, sou natural do Amazonas e atuo criando sol
 
 ### 📊 Estatísticas
 
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=DevPabloOliveira&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
-
-  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPabloOliveira&theme=tokyonight&layout=compact&langs_count=10&hide_title=true" />
-</p>
-
-<br/>
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevPabloOliveira&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPabloOliveira&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPabloOliveira&theme=tokyonight&layout=compact&langs_count=10&hide_border=true" />
+</div>
 
 ---
 
