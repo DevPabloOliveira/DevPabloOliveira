@@ -1,8 +1,8 @@
-# 👨🏻‍💻 Pablo Nobre de Oliveira
+# 👨🏻‍💻 Pablo Oliveira
 
 **`Engenheiro de Software · Analista de Dados Geoespaciais`**
 
-Me chamo **Pablo Nobre de Oliveira**, sou natural do Amazonas e atuo criando soluções que transformam **dados abertos** em **insights territoriais de alto impacto**. Trabalho principalmente com **Python**, **FastAPI** e ferramentas de geoprocessamento (GeoPandas, PySAL, OSMnx, KeplerGL) para otimizar recursos de saúde pública, analisar segurança e construir aplicações web de alto desempenho. Compartilho aprendizados sobre back‑end, geodados e visualização interativa sempre que possível.
+Me chamo **Pablo Oliveira**, sou natural do Amazonas e atuo criando soluções que transformam **dados abertos** em **insights territoriais de alto impacto**. Trabalho principalmente com **Python**, **FastAPI** e ferramentas de geoprocessamento (GeoPandas, PySAL, OSMnx, KeplerGL) para otimizar recursos de saúde pública, analisar segurança e construir aplicações web de alto desempenho. Compartilho aprendizados sobre back‑end, geodados e visualização interativa sempre que possível.
 
 <p align="left">
     <a href="https://github.com/DevPabloOliveira?tab=repositories&sort=stargazers">
@@ -40,19 +40,13 @@ Me chamo **Pablo Nobre de Oliveira**, sou natural do Amazonas e atuo criando sol
 
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=DevPabloOliveira&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPabloOliveira&theme=tokyonight&hide_border=true" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPabloOliveira&theme=tokyonight&layout=compact&langs_count=10&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevPabloOliveira&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPabloOliveira&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPabloOliveira&theme=tokyonight&layout=compact&langs_count=10&hide_border=true" />
+</div>
 
 ---
 
