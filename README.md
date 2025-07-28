@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Pablo Oliveira
 
-**`Engenheiro de Software · Analista de Dados Geoespaciais`**
+**`Engenheiro de Software em Formação`**
 
-Sou **engenheiro de software full‑stack** com forte atuação em **aplicações web assíncronas e síncronas** de alta performance. Minha especialidade é combinar **geoprocessamento** com arquiteturas modernas (REST, GraphQL, WebSockets, tarefas em background) para entregar produtos que vão de APIs em tempo real a dashboards interativos.
+Sou **engenheiro de software full‑stack em formação**, com forte atuação no desenvolvimento de **aplicações web assíncronas e síncronas** de alta performance. Tenho experiência prática no uso de **geoprocessamento** integrado a arquiteturas modernas (REST, GraphQL, WebSockets, tarefas em background), desenvolvendo soluções que vão de APIs em tempo real a dashboards interativos.
 
 > **Stack favorita:** Python (FastAPI + asyncio), JavaScript / TypeScript (React, Flutter), PostGIS, Redis, Docker, CI/CD GitHub Actions.
 
