@@ -8,18 +8,6 @@ Sou **engenheiro de software full‑stack em formação**, com forte atuação n
 
 Além do domínio de dados espaciais, tenho experiência em automação de ETL, arquitetura de microsserviços e otimização de pipelines de dados. Procuro sempre equilibrar **design limpo**, **testes automatizados** e **observabilidade** para garantir código sustentável em produção.
 
-<p align="left">
-  <a href="https://orcid.org/0009-0009-8292-8091">
-    <img alt="ORCID" title="Meu ORCID" src="https://img.shields.io/badge/ORCID-0009 0009 8292 8091-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-  </a>
-  <a href="http://www.linkedin.com/in/pablo-oliveira-273937206">
-    <img alt="LinkedIn" title="Conecte‑se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/pablo.oliveira.dev?igsh=azJoY29rcG5nY2x4">
-    <img alt="Instagram" title="Siga‑me no Instagram" src="https://img.shields.io/badge/Instagram-@pablo.oliveira.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ### 🧰 Linguagens e Tecnologias
