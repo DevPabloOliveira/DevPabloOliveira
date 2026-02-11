@@ -58,5 +58,3 @@ Além do domínio de dados espaciais, tenho experiência em automação de ETL, 
 </div>
 
 ---
-
-> *“Dados abertos + código limpo + mapas bonitos = 💚”*
