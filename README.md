@@ -6,7 +6,7 @@ Sou **engenheiro de software full‑stack em formação**, com forte atuação n
 
 > **Stack favorita:** Python (FastAPI + asyncio), JavaScript / TypeScript (React, Flutter), PostGIS, Redis, Docker, CI/CD GitHub Actions.
 
-Além do domínio de dados espaciais, tenho experiência em automação de ETL, arquitetura de microsserviços e otimização de pipelines de dados. Procuro sempre equilibrar **design limpo**, **testes automatizados** e **observabilidade** para garantir código sustentável em produção.
+Além do domínio de dados espaciais, tenho experiência em automação de ETL, arquitetura de microsserviços e otimização de pipelines de dados. 
 
 ---
 
