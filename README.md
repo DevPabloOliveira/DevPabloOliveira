@@ -1,5 +1,3 @@
-# Pablo Oliveira
-
 <div align="center">
 
 <img src="./assets/terminal.svg" width="900" alt="Pablo Oliveira, graduando em Engenharia de Software na UFAM. Trabalho com testes de segurança, automação em Python, APIs com FastAPI, OSINT e dados geoespaciais." />
