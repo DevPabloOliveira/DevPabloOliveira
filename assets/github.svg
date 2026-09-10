@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Repositórios de DevPabloOliveira</title>
+  <desc id="desc">Projetos de Pablo Oliveira em APIs, geoprocessamento e segurança de aplicações. Clique no painel para abrir a lista de repositórios no GitHub. O desenho de arquivos e ramificações é ilustrativo.</desc>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" stroke="#353A34" stroke-width=".6"/></pattern>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; fill: #E2E2D8; }
+      .mono { font-family: Consolas, 'Liberation Mono', monospace; }
+      .index { fill: #BCC798; font-size: 13px; letter-spacing: 1.5px; }
+      .note { fill: #A4AAA0; font-size: 17px; }
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="899" height="349" rx="3" fill="#171B19" stroke="#3B423A"/>
+  <path d="M40 39H67" stroke="#BCC798" stroke-width="3"/>
+  <text x="80" y="44" class="mono index">GITHUB / REPOSITÓRIOS</text>
+  <text x="40" y="105" class="mono" font-size="16" fill="#A4AAA0">github.com /</text>
+  <text x="40" y="150" font-size="38" font-weight="500" letter-spacing="-1">DevPabloOliveira</text>
+  <text x="40" y="192" class="note">APIs, geoprocessamento e segurança de aplicações.</text>
+  <text x="40" y="219" class="note">IPSUM · VisKepler · HybridSecretFramework</text>
+
+  <!-- Abstract repository: file sheets and a branch graph, not project data. -->
+  <rect x="616" y="34" width="244" height="208" fill="url(#grid)"/>
+  <path d="M642 55H776L800 79V205H642Z" fill="#1D241E" stroke="#56634D"/>
+  <path d="M629 68H763L787 92V218H629Z" fill="#1A201B" stroke="#738165"/>
+  <path d="M616 81H750L774 105V231H616Z" fill="#171B19" stroke="#BCC798"/>
+  <path d="M750 81V105H774" stroke="#BCC798"/>
+  <path d="M635 108H659M635 116H650" stroke="#697561"/>
+  <g stroke="#BCC798" stroke-width="1.5">
+    <path d="M674 140V200M730 146V160C730 179 674 172 674 192"/>
+    <circle cx="674" cy="134" r="6" fill="#171B19"/>
+    <circle cx="674" cy="172" r="4" fill="#BCC798"/>
+    <circle cx="674" cy="206" r="6" fill="#171B19"/>
+    <circle cx="730" cy="140" r="6" fill="#171B19"/>
+  </g>
+  <path d="M817 103H847M832 88V118M817 194H847M832 179V209" stroke="#56634D"/>
+
+  <path d="M40 265H860" stroke="#41483E"/>
+  <text x="40" y="311" class="mono" font-size="15" fill="#A4AAA0">Código-fonte e documentação</text>
+  <rect x="596" y="282" width="264" height="48" rx="2" fill="#BCC798"/>
+  <text x="618" y="312" class="mono" font-size="14" letter-spacing="1" style="fill:#171B19">ABRIR REPOSITÓRIOS</text>
+  <path d="M824 313L837 300M825 300H837V312" stroke="#171B19" stroke-width="1.5"/>
+</svg>

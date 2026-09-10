@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Pablo Oliveira — terminal de apresentação</title>
+  <desc id="desc">Engenharia de software na UFAM, cibersegurança, Python e cloud. Terminal ilustrativo com cursor animado.</desc>
+  <style>
+    text { font-family: 'Segoe UI', Arial, sans-serif; fill: #E2E2D8; }
+    .mono { font-family: Consolas, 'Liberation Mono', monospace; }
+    .index { fill: #BCC798; font-size: 13px; letter-spacing: 1.5px; }
+    .note { fill: #A4AAA0; font-size: 16px; }
+    .heading { fill: #EEECE4; font-size: 30px; font-weight: 500; letter-spacing: -.8px; }
+  </style>
+  <style>.cursor { animation: blink 1.2s step-end infinite; } @keyframes blink { 50% { opacity: 0; } } @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }</style>
+  <rect x=".5" y=".5" width="899" height="429" rx="3" fill="#171B19" stroke="#3B423A"/>
+  <path d="M40 39H67" stroke="#BCC798" stroke-width="3"/>
+  <text x="80" y="44" class="mono index">PABLO OLIVEIRA / PERFIL</text>
+  <text x="860" y="44" text-anchor="end" class="mono note" font-size="13">~/profile</text>
+  <path d="M40 65H860" stroke="#41483E"/>
+  <text x="40" y="103" class="mono index">01</text>
+  <text x="90" y="103" class="mono" font-size="16"><tspan fill="#BCC798">$</tspan> whoami</text>
+  <text x="90" y="148" class="heading">Pablo Oliveira</text>
+  <text x="90" y="180" class="note">Graduando em Engenharia de Software · UFAM</text>
+  <text x="40" y="227" class="mono index">02</text>
+  <text x="90" y="227" class="mono" font-size="16"><tspan fill="#BCC798">$</tspan> cat ./current-focus</text>
+  <text x="90" y="261" font-size="20">Testes de segurança e automação com Python.</text>
+  <text x="90" y="292" class="mono note">APIs em FastAPI / coleta OSINT / segurança em Azure</text>
+  <path d="M40 324H860" stroke="#41483E"/>
+  <text x="40" y="357" class="mono" font-size="16"><tspan fill="#BCC798">pablo@github</tspan><tspan fill="#A4AAA0">:~$</tspan></text>
+  <rect x="192" y="342" width="9" height="19" fill="#BCC798" class="cursor"/>
+  <text x="40" y="401" class="note">Também trabalho com análise de dados geoespaciais.</text>
+  <text x="860" y="401" text-anchor="end" class="mono index">PYTHON / FASTAPI</text>
+</svg>

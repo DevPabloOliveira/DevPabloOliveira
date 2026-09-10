@@ -1,60 +1,72 @@
-# 👨🏻‍💻 Pablo Oliveira
-
-**`Engenheiro de Software em Formação`**
-
-Sou **engenheiro de software full‑stack em formação**, com forte atuação no desenvolvimento de **aplicações web assíncronas e síncronas** de alta performance. Tenho experiência prática no uso de **geoprocessamento** integrado a arquiteturas modernas (REST, GraphQL, WebSockets, tarefas em background), desenvolvendo soluções que vão de APIs em tempo real a dashboards interativos.
-
-> **Stack favorita:** Python (FastAPI + asyncio), JavaScript / TypeScript (React, Flutter), PostGIS, Redis, Docker, CI/CD GitHub Actions.
-
-Além do domínio de dados espaciais, tenho experiência em automação de ETL, arquitetura de microsserviços e otimização de pipelines de dados. 
-
----
-
-### 🧰 Linguagens e Tecnologias
-
-<!-- Primeira linha -->
-
-
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" title="Bash" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Anaconda" title="Anaconda" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-<img align="left" alt="Jupyter" title="Jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-          
-
-<!-- Segunda linha icons-->
-
-
-<img align="left" alt="Graphql" title="Graphql"  width="30px" style="padding-right: 10px; margin-top:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-
-<img align="left" alt="Plotly" title="Plotly" width="30px" style="padding-right: 10px; margin-top:8px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
-<img align="left" alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right: 10px; margin-top:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
-<img align="left" alt="Railway" title="Railway" width="30px" style="padding-right: 10px; margin-top:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px; margin-top:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px; margin-top:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px; margin-top:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Flutter" title="Flutter" width="30px" style="padding-right: 10px; margin-top:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px; margin-top:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<br/>
-<br/>
-<br/>
-
----
-
-### 📊 Estatísticas
+# Pablo Oliveira
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevPabloOliveira&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPabloOliveira&theme=tokyonight&hide_border=true&locale=pt_BR&currStreakLabel=EB5454&currStreakNum=EB5454" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPabloOliveira&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&custom_title=Linguagens%20Mais%20Usadas" />
+
+<img src="./assets/terminal.svg" width="900" alt="Pablo Oliveira, graduando em Engenharia de Software na UFAM. Trabalho com testes de segurança, automação em Python, APIs com FastAPI, OSINT e dados geoespaciais." />
+
 </div>
 
----
+Sou graduando em **Engenharia de Software na Universidade Federal do Amazonas (UFAM)**. Trabalho com testes de segurança em aplicações, automações em Python e coleta e análise de informações para OSINT.
+
+Comecei pelo desenvolvimento de software e pela análise de dados. Aos poucos, passei a trabalhar mais com segurança, mantendo o desenvolvimento de APIs e ferramentas internas.
+
+## Projetos
+
+- **[IPSUM](https://github.com/nupec/IPSUM)** — Backend em Python e FastAPI para alocação de demandas a equipamentos públicos, como Unidades Básicas de Saúde. Inclui processamento de dados geoespaciais, diferentes métodos de cálculo de distância e geração de relatórios.
+- **[VisKepler](https://github.com/DevPabloOliveira/VisKepler)** — Dashboard de visualização geoespacial com Kepler.gl e FastAPI. Contribuí com melhorias na interface, na lógica dos mapas, na infraestrutura Docker e no tratamento de erros.
+- **[HybridSecretFramework](https://github.com/DevPabloOliveira/HybridSecretFramework)** — Framework em Python para detectar segredos expostos em artefatos obtidos do GitHub. Combina expressões regulares, análise de AST e classificação por aprendizado de máquina.
+
+## Tecnologias
+
+<div align="center">
+
+<img src="./assets/technologies.svg" width="900" alt="Tecnologias organizadas em Backend, Dados, Web, DevOps e Cloud, e Segurança. Lista completa em texto logo abaixo." />
+
+</div>
+
+<details>
+<summary>Ver tecnologias em texto</summary>
+
+- **Backend e automação:** Python, FastAPI, REST APIs, asyncio, scripts e automação de processos.
+- **Dados:** PostgreSQL, MySQL, PostGIS, Jupyter, Pandas, Plotly e Matplotlib.
+- **Web:** JavaScript, TypeScript, React, HTML e CSS.
+- **DevOps e Cloud:** Linux, Docker, Git, GitHub Actions, Azure, Azure DevOps e Railway.
+- **Segurança:** Burp Suite, Nmap, Wireshark, BloodHound, Hashcat, Gophish e ferramentas de análise OSINT.
+
+</details>
+
+## Áreas de interesse
+
+<div align="center">
+
+<img src="./assets/interests.svg" width="900" alt="Interesses em cibersegurança e engenharia de software. Lista completa em texto logo abaixo." />
+
+</div>
+
+<details>
+<summary>Ver áreas de interesse em texto</summary>
+
+- **Cibersegurança:** segurança de aplicações web e APIs, pentest, análise de vulnerabilidades, OSINT, Cloud Security e automação de segurança com Python.
+- **Engenharia de software:** backend com Python e FastAPI, APIs, análise de dados geoespaciais, arquitetura, requisitos, qualidade, testes e DevOps.
+
+</details>
+
+## Contribuições
+
+<div align="center">
+
+<a href="https://github.com/DevPabloOliveira?tab=overview">
+  <img src="./assets/activity.svg" width="900" alt="Calendário de contribuições em 3D. Cada bloco representa um dia; blocos mais altos indicam mais contribuições. Abrir o histórico de Pablo Oliveira no GitHub." />
+</a>
+
+</div>
+
+## Repositórios
+
+<div align="center">
+
+<a href="https://github.com/DevPabloOliveira?tab=repositories">
+  <img src="./assets/github.svg" width="900" alt="Abrir todos os repositórios de DevPabloOliveira no GitHub." />
+</a>
+
+</div>

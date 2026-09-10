@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="584" viewBox="0 0 900 584" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Tecnologias e ferramentas de Pablo Oliveira</title>
+  <desc id="desc">Backend e automação: Python, FastAPI, REST APIs, asyncio, scripts e automação de processos. Dados: PostgreSQL, MySQL, PostGIS, Jupyter, Pandas, Plotly e Matplotlib. Web: JavaScript, TypeScript, React, HTML e CSS. DevOps e Cloud: Linux, Docker, Git, GitHub Actions, Azure, Azure DevOps e Railway. Segurança: Burp Suite, Nmap, Wireshark, BloodHound, Hashcat, Gophish e ferramentas de análise OSINT.</desc>
+  <style>
+    text { font-family: 'Segoe UI', Arial, sans-serif; fill: #E2E2D8; }
+    .mono { font-family: Consolas, 'Liberation Mono', monospace; }
+    .index { fill: #BCC798; font-size: 13px; letter-spacing: 1.5px; }
+    .category { fill: #EEECE4; font-size: 21px; font-weight: 500; }
+    .tools { font-size: 19px; }
+    .secondary { fill: #A4AAA0; font-size: 17px; }
+  </style>
+  <rect x=".5" y=".5" width="899" height="583" rx="3" fill="#171B19" stroke="#3B423A"/>
+  <path d="M40 39H67" stroke="#BCC798" stroke-width="3"/>
+  <text x="80" y="44" class="mono index">PABLO OLIVEIRA / TECNOLOGIAS</text>
+  <text x="40" y="98" font-size="30" font-weight="500" letter-spacing="-.8">Linguagens e ferramentas</text>
+  <text x="860" y="98" text-anchor="end" class="mono index">ÍNDICE / 01—05</text>
+  <path d="M40 126H860" stroke="#41483E"/>
+
+  <text x="40" y="165" class="mono index">01</text>
+  <text x="80" y="165" class="category">Backend</text>
+  <text x="80" y="192" class="secondary">e automação</text>
+  <text x="324" y="165" class="tools"><tspan fill="#BCC798" font-weight="600">Python · FastAPI</tspan><tspan> · REST APIs · asyncio</tspan></text>
+  <text x="324" y="194" class="secondary">Scripts e automação de processos</text>
+  <path d="M40 218H860" stroke="#30382F"/>
+
+  <text x="40" y="257" class="mono index">02</text>
+  <text x="80" y="257" class="category">Dados</text>
+  <text x="324" y="257" class="tools">PostgreSQL · MySQL · PostGIS</text>
+  <text x="324" y="286" class="secondary">Jupyter · Pandas · Plotly · Matplotlib</text>
+  <path d="M40 310H860" stroke="#30382F"/>
+
+  <text x="40" y="349" class="mono index">03</text>
+  <text x="80" y="349" class="category">Web</text>
+  <text x="324" y="349" class="tools">JavaScript · TypeScript · React</text>
+  <text x="324" y="378" class="secondary">HTML · CSS</text>
+  <path d="M40 402H860" stroke="#30382F"/>
+
+  <text x="40" y="441" class="mono index">04</text>
+  <text x="80" y="441" class="category">DevOps e Cloud</text>
+  <text x="324" y="441" class="tools">Linux · Docker · Git · GitHub Actions</text>
+  <text x="324" y="470" class="secondary">Azure · Azure DevOps · Railway</text>
+  <path d="M40 494H860" stroke="#30382F"/>
+
+  <text x="40" y="533" class="mono index">05</text>
+  <text x="80" y="533" class="category">Segurança</text>
+  <text x="324" y="533" class="tools">Burp Suite · Nmap · Wireshark · BloodHound</text>
+  <text x="324" y="562" class="secondary">Hashcat · Gophish · Ferramentas de análise OSINT</text>
+</svg>

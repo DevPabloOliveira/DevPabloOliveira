@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Áreas de interesse de Pablo Oliveira</title>
+  <desc id="desc">Cibersegurança: Application Security, segurança ofensiva, OSINT, Cloud Security e automação de segurança. Engenharia de software: Python, FastAPI, backend, APIs, análise de dados, arquitetura e DevOps. A interseção é o desenvolvimento de ferramentas para investigar sistemas.</desc>
+  <defs>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" stroke="#353A34" stroke-width=".6"/></pattern>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; }
+      .mono { font-family: Consolas, 'Liberation Mono', monospace; }
+      .heading { fill: #EEECE4; font-size: 30px; font-weight: 500; letter-spacing: -.8px; }
+      .topic { fill: #E2E2D8; font-size: 19px; }
+      .note { fill: #A4AAA0; font-size: 16px; }
+      .index { fill: #BCC798; font-size: 13px; letter-spacing: 1.5px; }
+    </style>
+  </defs>
+  <!-- Technical notebook: quiet rules, generous margins, one ink accent. -->
+  <rect x=".5" y=".5" width="899" height="649" rx="3" fill="#171B19" stroke="#3B423A"/>
+  <path d="M40 39H67" stroke="#BCC798" stroke-width="3"/>
+  <text x="80" y="44" class="mono index">PABLO OLIVEIRA / INTERESSES</text>
+  <text x="40" y="104" class="heading">O que tenho estudado</text>
+  <text x="40" y="139" class="note">Segurança de aplicações, automação em Python e backend.</text>
+  <!-- Intersecting circles with a hatched shared surface. -->
+  <rect x="647" y="29" width="211" height="143" fill="url(#grid)"/>
+  <circle cx="724" cy="100" r="53" stroke="#BCC798" stroke-width="1.3"/>
+  <circle cx="780" cy="100" r="53" stroke="#8C9785" stroke-width="1.3"/>
+  <path d="M749 57L756 64M740 69L766 95M734 83L768 117M731 100L762 131M734 122L753 141" stroke="#BCC798"/>
+  <path d="M663 100H687M817 100H841M752 25V40M752 160V177" stroke="#697561"/>
+  <circle cx="724" cy="100" r="2.5" fill="#BCC798"/>
+  <circle cx="780" cy="100" r="2.5" fill="#BCC798"/>
+  <path d="M40 186H860" stroke="#41483E"/>
+  <text x="40" y="220" class="mono index">01 / SEGURANÇA</text>
+  <text x="40" y="262" class="heading">Cibersegurança</text>
+  <text x="40" y="294" class="note">Testes em aplicações web</text>
+  <text x="40" y="318" class="note">e análise de vulnerabilidades.</text>
+  <path d="M40 348H76M70 343L76 348L70 353" stroke="#BCC798" stroke-width="1.2"/>
+  <g class="topic">
+    <text x="348" y="227">Application Security</text>
+    <text x="348" y="274">Segurança ofensiva</text>
+    <text x="348" y="321">OSINT</text>
+  </g>
+  <g class="note">
+    <text x="642" y="227">Aplicações web e APIs</text>
+    <text x="642" y="274">Pentest e vulnerabilidades</text>
+    <text x="642" y="321">Coleta e análise de dados</text>
+  </g>
+  <path d="M348 244H860M348 291H860" stroke="#30382F"/>
+  <text x="348" y="357" class="mono" fill="#BCC798" font-size="15">Cloud Security · Automação de segurança</text>
+  <path d="M40 384H860" stroke="#41483E"/>
+  <text x="40" y="419" class="mono index">02 / DESENVOLVIMENTO</text>
+  <text x="40" y="460" class="heading">Engenharia</text>
+  <text x="40" y="495" class="heading">de software</text>
+  <text x="40" y="528" class="note">APIs, dados e ferramentas internas.</text>
+  <path d="M40 552H76M70 547L76 552L70 557" stroke="#BCC798" stroke-width="1.2"/>
+  <g class="topic">
+    <text x="348" y="425">Backend e APIs</text>
+    <text x="348" y="472">Análise de dados</text>
+    <text x="348" y="519">Arquitetura de software</text>
+  </g>
+  <g class="note">
+    <text x="642" y="425">Python / FastAPI</text>
+    <text x="642" y="472">Pandas e dados geoespaciais</text>
+    <text x="642" y="519">Requisitos, qualidade e testes</text>
+  </g>
+  <path d="M348 442H860M348 489H860" stroke="#30382F"/>
+  <text x="348" y="555" class="mono" fill="#BCC798" font-size="15">DevOps / Cloud · Docker · Azure</text>
+  <path d="M40 584H860" stroke="#41483E"/>
+  <circle cx="46" cy="614" r="5" stroke="#BCC798"/>
+  <circle cx="52" cy="614" r="5" stroke="#BCC798"/>
+  <text x="72" y="620" class="note">Uso Python para automatizar coletas e análises.</text>
+  <text x="860" y="619" text-anchor="end" class="mono index">PYTHON / APPSEC / DADOS</text>
+</svg>
