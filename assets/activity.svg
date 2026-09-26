@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="530" viewBox="0 0 900 530" fill="none" role="img" aria-labelledby="title desc">
 <title id="title">Contribuições de DevPabloOliveira em 3D</title>
-<desc id="desc">244 contribuições de 21/09/2025 a 25/09/2026. Cada bloco representa um dia; blocos mais altos indicam mais contribuições. Fonte: calendário público do GitHub.</desc>
+<desc id="desc">244 contribuições de 21/09/2025 a 26/09/2026. Cada bloco representa um dia; blocos mais altos indicam mais contribuições. Fonte: calendário público do GitHub.</desc>
 <style>text { font-family: 'Segoe UI', Arial, sans-serif; fill: #E2E2D8; } .mono { font-family: Consolas, 'Liberation Mono', monospace; } .index { fill: #BCC798; font-size: 13px; letter-spacing: 1.5px; } .note { fill: #A4AAA0; font-size: 16px; }</style>
 <rect x=".5" y=".5" width="899" height="529" rx="3" fill="#171B19" stroke="#3B423A"/>
 <path d="M40 39H67" stroke="#BCC798" stroke-width="3"/>
 <text x="80" y="44" class="mono index">ATIVIDADE / CONTRIBUIÇÕES</text>
 <text x="40" y="98" font-size="30" font-weight="500" letter-spacing="-.8">Histórico de contribuições</text>
-<text x="40" y="132" class="note">244 contribuições · 21/09/2025 — 25/09/2026</text>
+<text x="40" y="132" class="note">244 contribuições · 21/09/2025 — 26/09/2026</text>
 <text x="860" y="44" text-anchor="end" class="mono index">DevPabloOliveira</text>
 <g><title>2025-09-21: 0 contribuições</title><polygon points="121.10,246.30 131.80,248.25 131.80,249.25 121.10,247.30" fill="#293229"/><polygon points="131.80,248.25 140.70,240.95 140.70,241.95 131.80,249.25" fill="#3B4835"/><polygon points="130.00,239.00 140.70,240.95 131.80,248.25 121.10,246.30" fill="#293229" stroke="#171B19" stroke-width=".5"/></g>
 <g><title>2025-09-28: 0 contribuições</title><polygon points="133.50,248.55 144.20,250.50 144.20,251.50 133.50,249.55" fill="#293229"/><polygon points="144.20,250.50 153.10,243.20 153.10,244.20 144.20,251.50" fill="#3B4835"/><polygon points="142.40,241.25 153.10,243.20 144.20,250.50 133.50,248.55" fill="#293229" stroke="#171B19" stroke-width=".5"/></g>
@@ -378,6 +378,7 @@
 <g><title>2026-09-05: 0 contribuições</title><polygon points="666.30,407.55 677.00,409.50 677.00,410.50 666.30,408.55" fill="#293229"/><polygon points="677.00,409.50 685.90,402.20 685.90,403.20 677.00,410.50" fill="#3B4835"/><polygon points="675.20,400.25 685.90,402.20 677.00,409.50 666.30,407.55" fill="#293229" stroke="#171B19" stroke-width=".5"/></g>
 <g><title>2026-09-12: 0 contribuições</title><polygon points="678.70,409.80 689.40,411.75 689.40,412.75 678.70,410.80" fill="#293229"/><polygon points="689.40,411.75 698.30,404.45 698.30,405.45 689.40,412.75" fill="#3B4835"/><polygon points="687.60,402.50 698.30,404.45 689.40,411.75 678.70,409.80" fill="#293229" stroke="#171B19" stroke-width=".5"/></g>
 <g><title>2026-09-19: 0 contribuições</title><polygon points="691.10,412.05 701.80,414.00 701.80,415.00 691.10,413.05" fill="#293229"/><polygon points="701.80,414.00 710.70,406.70 710.70,407.70 701.80,415.00" fill="#3B4835"/><polygon points="700.00,404.75 710.70,406.70 701.80,414.00 691.10,412.05" fill="#293229" stroke="#171B19" stroke-width=".5"/></g>
+<g><title>2026-09-26: 0 contribuições</title><polygon points="703.50,414.30 714.20,416.25 714.20,417.25 703.50,415.30" fill="#293229"/><polygon points="714.20,416.25 723.10,408.95 723.10,409.95 714.20,417.25" fill="#3B4835"/><polygon points="712.40,407.00 723.10,408.95 714.20,416.25 703.50,414.30" fill="#293229" stroke="#171B19" stroke-width=".5"/></g>
 <text x="40" y="452" class="note">Um bloco por dia. Blocos mais altos indicam mais contribuições.</text>
 <text x="684" y="452" class="mono" font-size="12" fill="#A4AAA0">Menos</text>
 <rect x="727" y="440" width="13" height="13" fill="#293229"/><rect x="746" y="440" width="13" height="13" fill="#526047"/><rect x="765" y="440" width="13" height="13" fill="#74845B"/><rect x="784" y="440" width="13" height="13" fill="#96A977"/><rect x="803" y="440" width="13" height="13" fill="#BCC798"/>
